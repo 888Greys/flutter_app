@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           useMaterial3: true,
           colorScheme:
-              ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 9, 15, 69)),
+              ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 17, 179, 6)),
         ),
         home: MyHomePage(),
       ),
